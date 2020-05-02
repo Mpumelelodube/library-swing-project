@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17e4108a-8fa3-4002-bc4d-b751b7106bf6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="JavaFXApplication" />
+        <option value="XSLT Stylesheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZhVOOWGx9w2r784vcwV5mH8ynw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql-connector-java-5.1.48-bin.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="tab" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/model" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="gui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.App" />
+      <module name="Library(swing)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.DatabaseConnection" />
+      <module name="Library(swing)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fx" />
+      <module name="Library(swing)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql-connector-java-5.1.48-bin.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/mysql-connector-java-5.1.48-bin.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.DatabaseConnection" />
+        <item itemvalue="JAR Application.mysql-connector-java-5.1.48-bin.jar" />
+        <item itemvalue="Application.fx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17e4108a-8fa3-4002-bc4d-b751b7106bf6" name="Default Changelist" comment="" />
+      <created>1585291279088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585291279088</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="374" y="202" width="607" height="398" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585426677353">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="374" y="202" width="607" height="398" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1585426677353" />
+    <state x="418" y="234" width="519" height="334" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585478650848">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="418" y="234" width="519" height="334" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.1366.741@0.27.1366.741" timestamp="1585478650848" />
+    <state x="491" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1585466803197">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1585466803197" />
+    <state x="415" y="177" width="524" height="452" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585337635933">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="415" y="177" width="524" height="452" key="#com.intellij.ide.util.PackageChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1585337635933" />
+    <state x="416" y="146" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585395564958">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="146" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1585395564958" />
+    <state x="425" y="230" width="505" height="346" key="#com.intellij.tools.ToolEditorDialog" timestamp="1585478499266">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="425" y="230" width="505" height="346" key="#com.intellij.tools.ToolEditorDialog/0.27.1366.741@0.27.1366.741" timestamp="1585478499266" />
+    <state x="357" y="36" width="641" height="730" key="#mysql-connector-java-5.1.48-bin.jar" timestamp="1585479014186">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="357" y="36" width="641" height="730" key="#mysql-connector-java-5.1.48-bin.jar/0.27.1366.741@0.27.1366.741" timestamp="1585479014186" />
+    <state x="435" y="140" width="479" height="535" key="FileChooserDialogImpl" timestamp="1585512859518">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="435" y="140" width="479" height="535" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1585512859518" />
+    <state width="1320" height="110" key="GridCell.Tab.0.bottom" timestamp="1588342417780">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="110" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1588342417780" />
+    <state width="1320" height="110" key="GridCell.Tab.0.center" timestamp="1588342417777">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="110" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1588342417777" />
+    <state width="1320" height="110" key="GridCell.Tab.0.left" timestamp="1588342417777">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="110" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1588342417777" />
+    <state width="1320" height="110" key="GridCell.Tab.0.right" timestamp="1588342417778">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="110" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1588342417778" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1585512898943">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1585512898943" />
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585314424671">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="343" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1585314424671" />
+    <state x="457" y="100" width="442" height="601" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585395636589">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="457" y="100" width="442" height="601" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1366.741@0.27.1366.741" timestamp="1585395636589" />
+    <state x="4" y="27" width="1347" height="741" key="new project wizard" timestamp="1585425369822">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="4" y="27" width="1347" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1585425369822" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585310704457">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1585310704457" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Library$App.ic" NAME="App Coverage Results" MODIFIED="1585333783557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>gui.*</FILTER>
+    </SUITE>
+  </component>
+</project>
